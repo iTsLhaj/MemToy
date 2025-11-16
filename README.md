@@ -1,6 +1,6 @@
 # MemToy
 
-**Client Side External Skin Changer** – a learning project inspired by **Cazz’s video**.  
+**Client Side External Skin Changer** – a learning project inspired by [**Cazz**](https://www.youtube.com/@cazz).
 
 ---
 
