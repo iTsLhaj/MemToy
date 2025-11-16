@@ -1,3 +1,34 @@
+# MemToy
+
+**Client Side External Skin Changer** – a learning project inspired by **Cazz’s video**.  
+
+---
+
+## ⚡ Overview
+
+- Explores client-side memory manipulation in games.  
+- Built as an **educational reverse-engineering exercise**.  
+- Demonstrates low-level C++ skills and external memory editing techniques.  
+
+> ⚠️ **Disclaimer:** For **educational purposes only**.  
+> Do **not** use in live games or violate any terms of service.  
+
+---
+
+## 📦 Requirements
+
+- C++ compiler (GCC, Clang, or Visual Studio)  
+- Windows environment recommended  
+
+---
+
+## 🚀 Usage
+
+- Study the code for educational learning  
+- Compile and experiment in a **safe, offline environment**  
+
+---
+
 ### How To Build
 
 1. Create New Project   'Empty Project Cpp - Windows - Console'
@@ -8,6 +39,8 @@
 4. Apply.
 5. Create Files { SourceFiles - Add - NewItem - C++ File - main.cpp}
 6. Create Files { HeaderFiles - Add - NewItem - Header File - memory.h}
+
+---
 
 ### Weapons Ids
 
